@@ -73,7 +73,7 @@ Android Barang is an Android application designed as part of a college project. 
 **Clone the repository**:
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/loginApp.git
+   git clone https://github.com/yourusername/college-android-barang.git
    
 Replace `yourusername/your-repo-name` in the `git clone` command with your actual GitHub repository name, and update any screenshot paths if you add them. This README covers the project's main details and provides context for users or reviewers.
 
