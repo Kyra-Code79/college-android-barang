@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:background="@color/light_gray"
+    android:gravity="center_vertical">
+
+    <!-- Kode Barang Column -->
+    <TextView
+        android:id="@+id/KodeBarangView"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="Kode"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:background="@color/white"
+        android:elevation="2dp" />
+
+    <!-- Nama Barang Column -->
+    <TextView
+        android:id="@+id/NamaBarangView"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:text="Nama Barang"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:background="@color/white"
+        android:elevation="2dp" />
+
+    <!-- Merk Column -->
+    <TextView
+        android:id="@+id/MerkView"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:text="Merk"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:background="@color/white"
+        android:elevation="2dp" />
+
+    <!-- Harga Barang Column -->
+    <TextView
+        android:id="@+id/HargaBarangView"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:text="Harga Barang"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:background="@color/white"
+        android:elevation="2dp" />
+
+    <!-- Jumlah Stok Column -->
+    <TextView
+        android:id="@+id/JumlahStokView"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="Stok"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:background="@color/white"
+        android:elevation="2dp" />
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background and Layout Colors -->
+    <color name="light_gray">#F5F5F5</color> <!-- Light gray for the background -->
+
+    <!-- Button and Icon Colors -->
+    <color name="button_outline">#FF6200EE</color> <!-- Example button outline color, change as needed -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#333333</color> <!-- Primary text color for readability -->
+    <color name="text_secondary">#666666</color> <!-- Secondary text color if needed -->
+
+    <!-- Accent Colors -->
+    <color name="accent_color">#03DAC5</color> <!-- Accent color for buttons or highlights -->
+    <color name="error_color">#B00020</color> <!-- Color for error states -->
+</resources>
