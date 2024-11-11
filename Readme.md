@@ -24,10 +24,10 @@ Android Barang is an Android application designed as part of a college project. 
 ![Add Features](Screenshoots/add.png)  
 *Add Features*
 
-![Update Features](Screenshoots/update.png)  
+![Update Features](Screenshoots/Updated.png)  
 *Update Features*
 
-![Delete Features](Screenshoots/delete.png)  
+![Delete Features](Screenshoots/deleted.png)  
 *Delete Features*
 
 
